@@ -2,12 +2,13 @@
 
 **App Concept:** Storylord - Your Meta-Narrative Screenwriting Assistant
 
-**Core Idea:** This app assists users in writing stories and screenplays, with AI agents providing feedback, suggestions, and meta-commentary at every stage. The agents, inspired by Rick and Morty Episodes, offer both helpful and hilariously disruptive input, ensuring the screenwriting process is anything but ordinary.
+**Core Idea:** This app assists users in writing or reviewing stories and screenplays, with AI agents providing feedback, suggestions, and meta-commentary at every stage. The agents, inspired by Rick and Morty Episodes, offer both helpful and hilariously disruptive input, ensuring the screenwriting process is anything but ordinary.
 
 ## Key Features:
 
 ### Agent-Assisted Screenwriting:
 
+* The app has 3 modes: writer, critic, and cynic
 * Users work on their screenplay within the app, writing scene by scene.
 * At each stage, different agents offer their unique perspectives:
     * **Connie Tinuityerror:** Checks for inconsistencies in the plot, character development, and world-building, and formatting.
